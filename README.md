@@ -1,7 +1,8 @@
 # Automate-Django-App-Creation
 ### This is a .bat program i wrote to automate django project creation,setup virtualenv,startproject, and creation of app (which was boring to me)
 #### With this program the whole process is simple
-#### write the below code in cmd
+#### write the below code in cmd 
+* make sure you are in the same directory where the .bat file is there
 ```
 createdjangoapp foldername env-name project-name app-name
 ```
